@@ -1,0 +1,237 @@
+{ "time" : "18:36:12.442", "thread" : "0xF9000000", "type" : "warning", "filter" : "DllBase", "message" : "Failed to load game:\\Plugins\\NetDbgDll.xex" }
+{ "time" : "18:36:12.451", "thread" : "0xF9000000", "type" : "warning", "filter" : "NetDbgDll", "message" : "Failed to load NetDbgDll" }
+{ "time" : "18:36:12.458", "thread" : "0xF9000000", "type" : "info", "filter" : "Main", "message" : "Logger initialized" }
+{ "time" : "18:36:12.471", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraSql", "message" : "off" }
+{ "time" : "18:36:12.543", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraSql", "message" : "version is 3" }
+{ "time" : "18:36:12.552", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraSql", "message" : "Config Page count is is 33" }
+{ "time" : "18:36:12.561", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraSql", "message" : "version of Config schema is 5" }
+{ "time" : "18:36:12.566", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraSql", "message" : "Config cache size is 20000" }
+{ "time" : "18:36:12.570", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraSql", "message" : "main cache size is 20000" }
+{ "time" : "18:36:12.575", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraSql", "message" : "temp_store is 2" }
+{ "time" : "18:36:12.579", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraSql", "message" : "temp_store is 2" }
+{ "time" : "18:36:12.667", "thread" : "0xF9000000", "type" : "normal", "filter" : "StorageDeviceMonitor", "message" : "Storage Device Monitor Constructor" }
+{ "time" : "18:36:12.681", "thread" : "0xF9000000", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\Usb0:, \\Device\\Mass0 - serial: 8EB15C0D58DD0173F2ABC63B9197E93385468A64" }
+{ "time" : "18:36:12.698", "thread" : "0xF9000000", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\Usb1:, \\Device\\Mass1 - serial: AB4D32D9B037CA96FDC63E5D6CF81C8E7070ED3D" }
+{ "time" : "18:36:12.703", "thread" : "0xF9000000", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\Flash:, \\Device\\Flash - serial: C90DEFAE599D8696D8004DC9D8F84C4A629CAE51" }
+{ "time" : "18:36:12.707", "thread" : "0xF9000000", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\System:, \\SystemRoot - serial: DE331B389CDA487A26018C2CB72895A400000000" }
+{ "time" : "18:36:12.712", "thread" : "0xF9000000", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\Game:, \\Device\\Mass0\\Aurora - serial: _8EB15C0D58DD0173F2ABC63B9197E93385468A64" }
+{ "time" : "18:36:12.983", "thread" : "0xF9000000", "type" : "normal", "filter" : "LocaleManager", "message" : "Language Pack:  None" }
+{ "time" : "18:36:12.990", "thread" : "0xF9000000", "type" : "normal", "filter" : "LocaleManager", "message" : "[Update] Locale Name:     English" }
+{ "time" : "18:36:12.995", "thread" : "0xF9000000", "type" : "normal", "filter" : "LocaleManager", "message" : "[Update] Locale Id:       EN-US" }
+{ "time" : "18:36:12.999", "thread" : "0xF9000000", "type" : "normal", "filter" : "LocaleManager", "message" : "[Update] Locale Version:  0.7" }
+{ "time" : "18:36:13.018", "thread" : "0xF9000000", "type" : "normal", "filter" : "LUA", "message" : "> Sort.lua done!" }
+{ "time" : "18:36:13.022", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Loading User Sorts:" }
+{ "time" : "18:36:13.030", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Load Success:  Genre.lua" }
+{ "time" : "18:36:13.047", "thread" : "0xF9000000", "type" : "normal", "filter" : "LUA", "message" : "> Filter.lua done!" }
+{ "time" : "18:36:13.051", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Loading User Filters:" }
+{ "time" : "18:36:13.058", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Load Success:  HideBackups.lua" }
+{ "time" : "18:36:13.065", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Load Success:  HideKinect.lua" }
+{ "time" : "18:36:13.071", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Load Success:  HideMultiDisc.lua" }
+{ "time" : "18:36:13.082", "thread" : "0xF9000000", "type" : "normal", "filter" : "LUA", "message" : "> Subtitle.lua done!" }
+{ "time" : "18:36:13.087", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Loading User Subtitles:" }
+{ "time" : "18:36:13.093", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Load Success:  DeviceCode.lua" }
+{ "time" : "18:36:13.098", "thread" : "0xF9000000", "type" : "normal", "filter" : "LUA", "message" : "> System Functions Loaded!" }
+{ "time" : "18:36:13.102", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "---------------------------------------------------------" }
+{ "time" : "18:36:13.107", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Table:  GameListSorters" }
+{ "time" : "18:36:13.111", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0003] - Developer" }
+{ "time" : "18:36:13.115", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0007] - Genre" }
+{ "time" : "18:36:13.120", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0008] - Publisher" }
+{ "time" : "18:36:13.124", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0005] - Recent Activity" }
+{ "time" : "18:36:13.128", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0006] - Recently Added" }
+{ "time" : "18:36:13.133", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0004] - Title Name" }
+{ "time" : "18:36:13.137", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "---------------------------------------------------------" }
+{ "time" : "18:36:13.141", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "---------------------------------------------------------" }
+{ "time" : "18:36:13.146", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Table:  GameListFilterCategories" }
+{ "time" : "18:36:13.150", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0042] - Applications" }
+{ "time" : "18:36:13.155", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[003F] - ConnectX" }
+{ "time" : "18:36:13.159", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[001D] - Disc" }
+{ "time" : "18:36:13.163", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0043] - Emulators" }
+{ "time" : "18:36:13.168", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0010] - Genres.Action & Adventure" }
+{ "time" : "18:36:13.172", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0006] - Genres.Card & Board" }
+{ "time" : "18:36:13.176", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000C] - Genres.Classics" }
+{ "time" : "18:36:13.181", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000E] - Genres.Family" }
+{ "time" : "18:36:13.185", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0008] - Genres.Fighting" }
+{ "time" : "18:36:13.190", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000D] - Genres.Music" }
+{ "time" : "18:36:13.194", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000A] - Genres.Other" }
+{ "time" : "18:36:13.200", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0007] - Genres.Platformer" }
+{ "time" : "18:36:13.205", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0011] - Genres.Puzzle & Trivia" }
+{ "time" : "18:36:13.209", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0013] - Genres.Racing & Flying" }
+{ "time" : "18:36:13.213", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0012] - Genres.Role Playing" }
+{ "time" : "18:36:13.218", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000B] - Genres.Shooter" }
+{ "time" : "18:36:13.222", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0009] - Genres.Sports & Recreation" }
+{ "time" : "18:36:13.227", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000F] - Genres.Strategy & Simulation" }
+{ "time" : "18:36:13.231", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0003] - Homebrew" }
+{ "time" : "18:36:13.235", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0004] - Indie" }
+{ "time" : "18:36:13.240", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0044] - Kinect" }
+{ "time" : "18:36:13.299", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[001A] - Misc.Enabled Only" }
+{ "time" : "18:36:13.304", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0017] - Misc.Hidden Only" }
+{ "time" : "18:36:13.308", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0015] - Misc.Hide ConnectX" }
+{ "time" : "18:36:13.312", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0016] - Misc.Hide Indie" }
+{ "time" : "18:36:13.316", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0019] - Misc.LiNK Supported" }
+{ "time" : "18:36:13.321", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0018] - Misc.Retail Only" }
+{ "time" : "18:36:13.325", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[001B] - Misc.Unsigned Only" }
+{ "time" : "18:36:13.329", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[003C] - NameFilter.A - F.A" }
+{ "time" : "18:36:13.334", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[003A] - NameFilter.A - F.B" }
+{ "time" : "18:36:13.338", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[003B] - NameFilter.A - F.C" }
+{ "time" : "18:36:13.342", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0038] - NameFilter.A - F.D" }
+{ "time" : "18:36:13.346", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0039] - NameFilter.A - F.E" }
+{ "time" : "18:36:13.351", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0037] - NameFilter.A - F.F" }
+{ "time" : "18:36:13.355", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0021] - NameFilter.G - L.G" }
+{ "time" : "18:36:13.359", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0025] - NameFilter.G - L.H" }
+{ "time" : "18:36:13.364", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0026] - NameFilter.G - L.I" }
+{ "time" : "18:36:13.396", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0023] - NameFilter.G - L.J" }
+{ "time" : "18:36:13.400", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0024] - NameFilter.G - L.K" }
+{ "time" : "18:36:13.405", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0022] - NameFilter.G - L.L" }
+{ "time" : "18:36:13.409", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0031] - NameFilter.M - R.M" }
+{ "time" : "18:36:13.414", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[002F] - NameFilter.M - R.N" }
+{ "time" : "18:36:13.418", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0030] - NameFilter.M - R.O" }
+{ "time" : "18:36:13.422", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0033] - NameFilter.M - R.P" }
+{ "time" : "18:36:13.427", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0034] - NameFilter.M - R.Q" }
+{ "time" : "18:36:13.431", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0032] - NameFilter.M - R.R" }
+{ "time" : "18:36:13.435", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0036] - NameFilter.Other" }
+{ "time" : "18:36:13.440", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[002C] - NameFilter.S - X.S" }
+{ "time" : "18:36:13.444", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[002A] - NameFilter.S - X.T" }
+{ "time" : "18:36:13.448", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[002B] - NameFilter.S - X.U" }
+{ "time" : "18:36:13.453", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0028] - NameFilter.S - X.V" }
+{ "time" : "18:36:13.457", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0029] - NameFilter.S - X.W" }
+{ "time" : "18:36:13.462", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[002D] - NameFilter.S - X.X" }
+{ "time" : "18:36:13.466", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[001F] - NameFilter.Y - Z.Y" }
+{ "time" : "18:36:13.470", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[001E] - NameFilter.Y - Z.Z" }
+{ "time" : "18:36:13.475", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0047] - User.Hide Backups" }
+{ "time" : "18:36:13.479", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0045] - User.Hide Kinect" }
+{ "time" : "18:36:13.483", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0046] - User.Hide MultiDisc" }
+{ "time" : "18:36:13.488", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0040] - Xbox 360" }
+{ "time" : "18:36:13.492", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0041] - Xbox Classic" }
+{ "time" : "18:36:13.497", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0005] - Xbox Live Arcade" }
+{ "time" : "18:36:13.501", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "---------------------------------------------------------" }
+{ "time" : "18:36:13.505", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "---------------------------------------------------------" }
+{ "time" : "18:36:13.515", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "Table:  GameListSubtitles" }
+{ "time" : "18:36:13.519", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0005] - Achievement" }
+{ "time" : "18:36:13.523", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0007] - BaseVersion" }
+{ "time" : "18:36:13.528", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0008] - ContentID" }
+{ "time" : "18:36:13.532", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0014] - ContentPath" }
+{ "time" : "18:36:13.537", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000C] - DateAdded" }
+{ "time" : "18:36:13.541", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000A] - Developer" }
+{ "time" : "18:36:13.545", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0010] - DeviceCode" }
+{ "time" : "18:36:13.550", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0003] - DiscInfo" }
+{ "time" : "18:36:13.615", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0009] - Genre" }
+{ "time" : "18:36:13.620", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000B] - LastPlayed" }
+{ "time" : "18:36:13.624", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000F] - MediaID" }
+{ "time" : "18:36:13.628", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0006] - Publisher" }
+{ "time" : "18:36:13.632", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000D] - ReleaseDate" }
+{ "time" : "18:36:13.637", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0013] - SystemLink" }
+{ "time" : "18:36:13.641", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0004] - TitleID" }
+{ "time" : "18:36:13.645", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[000E] - TitleIDMediaID" }
+{ "time" : "18:36:13.650", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0012] - TitleIDMediaIDBaseVersion" }
+{ "time" : "18:36:13.654", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0015] - VirtualPath" }
+{ "time" : "18:36:13.658", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "   Function[0011] - _Blank" }
+{ "time" : "18:36:13.663", "thread" : "0xF9000000", "type" : "normal", "filter" : "ContentScripts", "message" : "---------------------------------------------------------" }
+{ "time" : "18:36:13.667", "thread" : "0xF9000034", "type" : "normal", "filter" : "DVDMonitor", "message" : "Attempting to force first trigger" }
+{ "time" : "18:36:13.667", "thread" : "0xF9000038", "type" : "normal", "filter" : "ContentManager", "message" : "Content Worker Thread Started" }
+{ "time" : "18:36:13.672", "thread" : "0xF9000034", "type" : "normal", "filter" : "DVDMonitor", "message" : "Notify NO DVD" }
+{ "time" : "18:36:13.691", "thread" : "0xF9000000", "type" : "normal", "filter" : "IDllBase::Load", "message" : "Completing DLLModule loading:  launch.xex" }
+{ "time" : "18:36:13.695", "thread" : "0xF9000000", "type" : "normal", "filter" : "PluginManager", "message" : "Module Loaded:  launch.xex" }
+{ "time" : "18:36:14.013", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_Popup.xur" }
+{ "time" : "18:36:14.018", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[1] Added:  Aurora from Internal" }
+{ "time" : "18:36:14.019", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_Main.xur" }
+{ "time" : "18:36:14.026", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Scanning Game:\\Media\\Layouts\\ for additional layouts" }
+{ "time" : "18:36:14.030", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options.xur" }
+{ "time" : "18:36:14.039", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Browser.xur" }
+{ "time" : "18:36:14.044", "thread" : "0xF9000000", "type" : "normal", "filter" : "SkinManager", "message" : "[Info]\tSkin Name:  Default" }
+{ "time" : "18:36:14.046", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_View.xur" }
+{ "time" : "18:36:14.050", "thread" : "0xF9000000", "type" : "normal", "filter" : "SkinManager", "message" : "[Info]\tSkin Author:  Phoenix" }
+{ "time" : "18:36:14.055", "thread" : "0xF9000000", "type" : "normal", "filter" : "SkinManager", "message" : "[Info]\tSkin Description:  Aurora's Default Skin. http:\/\/phoenix.xboxunity.net" }
+{ "time" : "18:36:14.055", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_View_QVModifyList.xur" }
+{ "time" : "18:36:14.059", "thread" : "0xF9000000", "type" : "normal", "filter" : "SkinManager", "message" : "[Info]\tSkin Revision:  1" }
+{ "time" : "18:36:14.064", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_View_QVConfig.xur" }
+{ "time" : "18:36:14.071", "thread" : "0xF9000000", "type" : "normal", "filter" : "VersionManager", "message" : "VersionManager Activated" }
+{ "time" : "18:36:14.072", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_View_QVFilterOpSelect.xur" }
+{ "time" : "18:36:14.076", "thread" : "0xF9000000", "type" : "normal", "filter" : "VersionManager", "message" : "Extracting From Compressed Skin" }
+{ "time" : "18:36:14.081", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_View_ThemeConfig.xur" }
+{ "time" : "18:36:14.092", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_Settings.xur" }
+{ "time" : "18:36:14.097", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_Settings_PathConfig.xur" }
+{ "time" : "18:36:14.103", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_FileManager.xur" }
+{ "time" : "18:36:14.107", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[2] Added:  Bookshelf from Game:\\Media\\Layouts\\Bookshelf by Phoenix.cfljson" }
+{ "time" : "18:36:14.110", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Aurora_QuickView.xur" }
+{ "time" : "18:36:14.128", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_Gizmo.xur" }
+{ "time" : "18:36:14.134", "thread" : "0xF9000040", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_GizmoXL.xur" }
+{ "time" : "18:36:14.156", "thread" : "0xF900004C", "type" : "normal", "filter" : "AuroraSql", "message" : "off" }
+{ "time" : "18:36:14.167", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraApp", "message" : "********************************************************************************" }
+{ "time" : "18:36:14.177", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraApp", "message" : "*********       Dash version: 0.7b Rev1655" }
+{ "time" : "18:36:14.191", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraApp", "message" : "*********       Skin version: 0.7b Rev1622" }
+{ "time" : "18:36:14.197", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraApp", "message" : "*********       Plugin version: 0.7b Rev1622" }
+{ "time" : "18:36:14.198", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[3] Added:  Flock from Game:\\Media\\Layouts\\Flock by Phoenix.cfljson" }
+{ "time" : "18:36:14.204", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraApp", "message" : "*********       Kernel version: 2.0.17559.0" }
+{ "time" : "18:36:14.227", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraApp", "message" : "*********       DashLaunch version: 3.21 Rev605" }
+{ "time" : "18:36:14.234", "thread" : "0xF9000000", "type" : "normal", "filter" : "AuroraApp", "message" : "********************************************************************************" }
+{ "time" : "18:36:14.277", "thread" : "0xF9000050", "type" : "normal", "filter" : "ContentManager", "message" : "Database has started loading" }
+{ "time" : "18:36:14.313", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[4] Added:  FlowCover from Game:\\Media\\Layouts\\FlowCover by Phoenix.cfljson" }
+{ "time" : "18:36:14.356", "thread" : "0xF9000050", "type" : "normal", "filter" : "AuroraSql", "message" : "off" }
+{ "time" : "18:36:14.467", "thread" : "0xF9000050", "type" : "normal", "filter" : "ContentManager", "message" : "Database has finished loading 0 item(s)" }
+{ "time" : "18:36:14.504", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[5] Added:  Gallery from Game:\\Media\\Layouts\\Gallery by Phoenix.cfljson" }
+{ "time" : "18:36:14.556", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [ScnGameOptions] - ClassName:  [ScnGameOptions]" }
+{ "time" : "18:36:14.587", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[6] Added:  Lazy Stack from Game:\\Media\\Layouts\\Lazy Stack by Swizzy.cfljson" }
+{ "time" : "18:36:14.598", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [GameBrowserList] - ClassName:  [GameBrowserList]" }
+{ "time" : "18:36:14.624", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [QuickViewList] - ClassName:  [QuickViewList]" }
+{ "time" : "18:36:14.629", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [FilterList] - ClassName:  [AvailableFilterList]" }
+{ "time" : "18:36:14.677", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[7] Added:  Minimal from Game:\\Media\\Layouts\\Minimal by Phoenix.cfljson" }
+{ "time" : "18:36:14.758", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [QVFilterList] - ClassName:  [QVFilterList]" }
+{ "time" : "18:36:14.788", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[8] Added:  Ribbon from Game:\\Media\\Layouts\\Ribbon by Phoenix.cfljson" }
+{ "time" : "18:36:14.832", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [ModuleList] - ClassName:  [ModuleList]" }
+{ "time" : "18:36:14.878", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[9] Added:  Spine from Game:\\Media\\Layouts\\Spine by Phoenix.cfljson" }
+{ "time" : "18:36:15.002", "thread" : "0xF9000048", "type" : "normal", "filter" : "FileBrowser", "message" : "ChangeDirectory(\\Xbox360\\System)" }
+{ "time" : "18:36:15.003", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[10] Added:  Spiral Stack from Game:\\Media\\Layouts\\Spiral Stack by Swizzy.cfljson" }
+{ "time" : "18:36:15.007", "thread" : "0xF9000048", "type" : "normal", "filter" : "FileBrowser", "message" : "ChangeDirectory(\\Xbox360\\System)" }
+{ "time" : "18:36:15.071", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_TitleUpdates.xur" }
+{ "time" : "18:36:15.075", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_Content.xur" }
+{ "time" : "18:36:15.085", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_SavedGames.xur" }
+{ "time" : "18:36:15.089", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_Synopsis.xur" }
+{ "time" : "18:36:15.092", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[11] Added:  Stack from Game:\\Media\\Layouts\\Stack By TraJiK.cfljson" }
+{ "time" : "18:36:15.094", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_Background.xur" }
+{ "time" : "18:36:15.105", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_Achievements.xur" }
+{ "time" : "18:36:15.109", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_Preview.xur" }
+{ "time" : "18:36:15.120", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_Trainers.xur" }
+{ "time" : "18:36:15.125", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_TitleSettings.xur" }
+{ "time" : "18:36:15.129", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Game_Options_ScreenCaptures.xur" }
+{ "time" : "18:36:15.137", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_Scripts.xur" }
+{ "time" : "18:36:15.141", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_SystemTools.xur" }
+{ "time" : "18:36:15.151", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_FileBrowser.xur" }
+{ "time" : "18:36:15.157", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_VerifyLink.xur" }
+{ "time" : "18:36:15.159", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[12] Added:  Stand Up from Game:\\Media\\Layouts\\Stand Up by Phoenix.cfljson" }
+{ "time" : "18:36:15.161", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_Progress.xur" }
+{ "time" : "18:36:15.166", "thread" : "0xF900004C", "type" : "normal", "filter" : "SkinManager", "message" : "Adding Cache:  2 Levels, Path: memory:\/\/40200030,4F0B6D#Utilities_Overscan.xur" }
+{ "time" : "18:36:15.261", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "***Layout[13] Added:  Table from Game:\\Media\\Layouts\\Table by Phoenix.cfljson" }
+{ "time" : "18:36:15.266", "thread" : "0xF9000044", "type" : "normal", "filter" : "Coverflow", "message" : "We Found 13 Layouts..." }
+{ "time" : "18:36:15.284", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [AchievementList] - ClassName:  [AchievementList]" }
+{ "time" : "18:36:15.337", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [ScriptList] - ClassName:  [UtilityScriptList]" }
+{ "time" : "18:36:15.353", "thread" : "0xF9000048", "type" : "normal", "filter" : "SkinXMLReader", "message" : "Configurable Scene:   InstanceID:  [FileList] - ClassName:  [FileBrowserList]" }
+{ "time" : "18:36:15.394", "thread" : "0xF9000044", "type" : "normal", "filter" : "CoverflowBase", "message" : "Object:  Meshes\\GameCover.xbg, Texture:   Loaded in 0.00 seconds" }
+{ "time" : "18:36:15.411", "thread" : "0xF9000044", "type" : "normal", "filter" : "CoverflowBase", "message" : "Texture:  Textures\\CoverFlow.xpr Loaded in 0.01 seconds" }
+{ "time" : "18:36:15.416", "thread" : "0xF9000044", "type" : "normal", "filter" : "ContentCallback", "message" : "Content Manager added 0 items from the content cache" }
+{ "time" : "18:36:15.417", "thread" : "0xF9000040", "type" : "warning", "filter" : "DllBase", "message" : "Failed to load game:\\Plugins\\CFEditDll.xex" }
+{ "time" : "18:36:15.427", "thread" : "0xF9000048", "type" : "warning", "filter" : "ContentManager", "message" : "\/gettitle requested failed because no network was detected." }
+{ "time" : "18:36:15.431", "thread" : "0xF9000048", "type" : "normal", "filter" : "IDllBase::Load", "message" : "Completing DLLModule loading:  Nova.xex" }
+{ "time" : "18:36:15.436", "thread" : "0xF9000048", "type" : "normal", "filter" : "PluginManager", "message" : "Module Loaded:  Nova.xex" }
+{ "time" : "18:36:15.440", "thread" : "0xF9000048", "type" : "normal", "filter" : "PluginLoading", "message" : "Status:  1" }
+{ "time" : "18:36:15.445", "thread" : "0xF9000048", "type" : "normal", "filter" : "PluginLoading", "message" : "Status:  0" }
+{ "time" : "18:36:15.468", "thread" : "0xF9000040", "type" : "normal", "filter" : "ProfileMonitor", "message" : "Cached Profile:  XUID:  E0002EB5BED2EB25, GamerTag:  Camargo" }
+{ "time" : "18:36:15.685", "thread" : "0xF9000040", "type" : "normal", "filter" : "ProfileMonitor", "message" : "Cached Profile:  XUID:  E0002FF78DFBDE7B, GamerTag:  ABadAvatar" }
+{ "time" : "18:36:15.752", "thread" : "0xF9000040", "type" : "normal", "filter" : "ProfileMonitor", "message" : "0(0) - Corrupted profile!" }
+{ "time" : "18:36:15.769", "thread" : "0xF9000040", "type" : "normal", "filter" : "ProfileMonitor", "message" : "Found 3 valid profiles on this system." }
+{ "time" : "18:36:16.253", "thread" : "0xF9000000", "type" : "normal", "filter" : "TaskManager", "message" : "Scheduling Task:  40E32D80" }
+{ "time" : "18:36:16.258", "thread" : "0xF9000000", "type" : "normal", "filter" : "TaskManager", "message" : "Scheduling Task:  41423480" }
+{ "time" : "18:36:16.704", "thread" : "0xF9000004", "type" : "normal", "filter" : "TaskManager", "message" : "Completed Task:  40E32D80" }
+{ "time" : "18:36:18.753", "thread" : "0xF9000030", "type" : "normal", "filter" : "NotificationMonitor", "message" : "Sign In Event has been triggered." }
+{ "time" : "18:36:21.783", "thread" : "0xF9000030", "type" : "normal", "filter" : "NotificationMonitor", "message" : "Devices Changed Event has been triggered." }
+{ "time" : "18:36:21.787", "thread" : "0xF9000030", "type" : "normal", "filter" : "StorageManager", "message" : "Storage Devices Changed- Mounted Devices Table Updated" }
+{ "time" : "18:36:21.803", "thread" : "0xF9000030", "type" : "normal", "filter" : "AuroraSql", "message" : "off" }
+{ "time" : "18:36:21.907", "thread" : "0xF9000030", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\Usb0:, \\Device\\Mass0 - serial: 8EB15C0D58DD0173F2ABC63B9197E93385468A64" }
+{ "time" : "18:36:21.971", "thread" : "0xF9000030", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\Game:, \\Device\\Mass0\\Aurora - serial: _8EB15C0D58DD0173F2ABC63B9197E93385468A64" }
+{ "time" : "18:36:25.012", "thread" : "0xF9000030", "type" : "normal", "filter" : "NotificationMonitor", "message" : "DVD Event has been triggered." }
+{ "time" : "18:36:25.016", "thread" : "0xF9000030", "type" : "normal", "filter" : "DVDMonitor", "message" : "Notify DVD Disc Changed" }
+{ "time" : "18:36:25.020", "thread" : "0xF9000030", "type" : "normal", "filter" : "StorageManager", "message" : "Storage Devices Changed- DVD Type Detected:  1" }
+{ "time" : "18:36:25.036", "thread" : "0xF9000008", "type" : "normal", "filter" : "TaskManager", "message" : "Completed Task:  41423480" }
+{ "time" : "18:36:25.060", "thread" : "0xF9000030", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\Usb0:, \\Device\\Mass0 - serial: 8EB15C0D58DD0173F2ABC63B9197E93385468A64" }
+{ "time" : "18:36:25.123", "thread" : "0xF9000030", "type" : "normal", "filter" : "SystemDrive", "message" : "Mounting results:  \\??\\Game:, \\Device\\Mass0\\Aurora - serial: _8EB15C0D58DD0173F2ABC63B9197E93385468A64" }
+{ "time" : "18:36:25.147", "thread" : "0xF9000030", "type" : "normal", "filter" : "DVDMonitor", "message" : "Notify NO DVD" }
+{ "time" : "18:36:31.199", "thread" : "0xF9000030", "type" : "normal", "filter" : "NotificationMonitor", "message" : "Kinect State Event has been triggered." }
